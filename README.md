@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Raghav</h1>
 <h3 align="center">Left-hander on-board!</h3>
-<i> <h4 align = "center"> "Train a neural network the neurons in you trains itself" </h4> </i>
+<i> <h4 align = "center"> "Learn to train a Neural Network,  The Neurons inside you trains itself." </h4> </i>
 <br>
 
 <p align = "center">
