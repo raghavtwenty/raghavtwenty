@@ -36,8 +36,10 @@
 <br>
 <h3 align = "center"> 🌐🌐🌐 </h3>
 <p align="center">
-<a href="https://twitter.com/raghavtwenty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raghavtwenty" height="30" width="40" /></a><a href="https://instagram.com/raghavtwenty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raghavtwenty" height="30" width="40" /></a><a href="https://linkedin.com/in/raghavtwenty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghavtwenty" height="30" width="40" /></a>
-<a href="https://kaggle.com/raghavtwenty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="raghavtwenty" height="30" width="40" /></a>
+  <a href="https://instagram.com/raghavtwenty"><img src="https://user-images.githubusercontent.com/126254197/228405403-b857ce6a-0a34-420b-935f-bd94d3ae8581.gif" alt="Instagram"/></a>
+  	<a href="https://linkedin.com/in/raghavtwenty"><img src="https://user-images.githubusercontent.com/126254197/228405639-1d6a22f4-9bcc-4eb6-9ad5-168c7ef1f097.gif" alt="LinkedIn"/></a>
+	<a href="https://github.com/raghavtwenty"><img src="https://user-images.githubusercontent.com/126254197/228405749-3428415d-2124-4da5-80d3-054d5d2f3767.gif" alt="GitHub"/></a>
+  	<a href="https://twitter.com/raghavtwenty"><img src="https://user-images.githubusercontent.com/126254197/228405860-89ff9bff-56a3-4c3c-8f31-fe7e64e9a255.gif" alt="Twitter"/></a>
 </p>
 
 
