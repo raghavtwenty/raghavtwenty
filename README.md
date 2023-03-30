@@ -1,6 +1,7 @@
 <img src= "https://user-images.githubusercontent.com/126254197/227756933-f4565297-002e-48e3-b387-1d1251f6d622.gif" width = "1080" height = "200">
 
-<h1 align="center">Hi 👋, I'm Raghav</h1>
+<h1 align = "center"> Hi <img src = "https://user-images.githubusercontent.com/126254197/228705946-27683699-03f0-47e8-8fbf-85ef02d8e0bb.gif" width = 40 alt = 'HI'> I'm Raghav </h1>
+
 <h3 align="center">Left-hander on-board!</h3>
 <i> <h4 align = "center"> "Learn to train a Neural Network,  The Neurons inside you trains itself." </h4> </i>
 <br>
