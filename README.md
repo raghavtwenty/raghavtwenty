@@ -1,14 +1,9 @@
-
-<h3 align="center">
-        <samp>&gt; Hey There!, I am Raghav</samp>
-</h3>
-
+![github](https://github.com/raghavtwenty/raghavtwenty/assets/126254197/90e37751-01ce-463d-a0fa-f02862a26ee1)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=800&size=30&pause=1000&color=CC313D&background=FFCBD3&center=true&vCenter=true&width=600&height=100&lines=I+am+a+Machine+Learning+student+;%26+Cyber+Security+enthusiast">
-
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=5000&size=30&pause=1000&color=AA44CD&center=true&vCenter=true&width=500&height=80&lines=I'm+Raghav;Machine+Learning+practitioner;Cyber+Security+enthusiast" alt="Typing SVG" /></a>
 </p>
+
 
 <br>
 <br>
